@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 3
 ---
 
-[View slides](/intro-wax/introduction.html) for this section.
+[View slides](/intro-wax/slides/introduction.html) for this section.
 
 # Digital Exhibits
 
